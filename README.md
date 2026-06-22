@@ -10,6 +10,7 @@ A collection of personal projects built for fun — from high school to universi
 |---------|-------------|------|
 | [lucky-bet](lucky-bet/) | Simulated gambling platform with multiple casino games | PHP, MySQL, JS, CSS |
 | [remote-controlled-car](remote-controlled-car/) | Arduino-powered RC car controlled via Bluetooth | Arduino, C++ |
+| [robotic-arm](robotic-arm/) | Arduino-powered robotic arm | Arduino, C++ |
 | [fan-led](fan-led/) | Arduino fan with LED effects | Arduino, C++ |
 
 ---
@@ -25,6 +26,16 @@ Simulated gambling platform built during high school. Includes SuperEnalotto, lo
 ### [remote-controlled-car](remote-controlled-car/)
 
 Arduino RC car controlled wirelessly via Bluetooth. Built from scratch with custom chassis and motor driver circuit.
+
+<video src="remote-controlled-car/media/video_auto3.mp4" controls width="600"></video>
+
+---
+
+### [robotic-arm](robotic-arm/)
+
+Arduino-powered robotic arm.
+
+<video src="robotic-arm/media/video braccio robotico.mp4" controls width="600"></video>
 
 ---
 
