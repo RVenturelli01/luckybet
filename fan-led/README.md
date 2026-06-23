@@ -35,14 +35,11 @@ A magnet is fixed to the outer edge of the fan. As the arm spins, a magnetic sen
 
 ### Videos
 
-<!-- upload quadrato_ruotante_3d.mp4 and replace URL -->
-https://github.com/user-attachments/assets/QUADRATO_URL
+https://github.com/user-attachments/assets/432f06eb-4107-4fc7-974f-8471f5fd37e3
 
-<!-- upload pc_e_fanled_cuore.mp4 and replace URL -->
-https://github.com/user-attachments/assets/PC_E_FANLED_CUORE_URL
+https://github.com/user-attachments/assets/d3bceb16-1f6b-45a3-9732-16acfa5aa507
 
-<!-- upload pc_e_fanled.mp4 and replace URL -->
-https://github.com/user-attachments/assets/PC_E_FANLED_URL
+https://github.com/user-attachments/assets/3df0f057-1ebc-47fe-a092-3163ada60823
 
 ---
 
@@ -60,5 +57,4 @@ Single LEDs replaced by an addressable LED strip: more colors and higher pixel d
 </tr>
 </table>
 
-<!-- upload cuore_v2.mp4 and replace URL -->
-https://github.com/user-attachments/assets/CUORE_V2_URL
+https://github.com/user-attachments/assets/86bb3cb2-a7fc-43dd-87a4-443ccb2908f9
