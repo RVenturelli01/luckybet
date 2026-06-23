@@ -32,9 +32,9 @@ Improved chassis and wiring on the same infrared control system.
 
 ---
 
-## Version 3 — Bluetooth controlled
+## Version 3 — Radio controlled
 
-Replaced IR with Bluetooth communication. The controller is a custom board held in hand.
+Replaced IR with Radio communication. The controller is a custom board held in hand.
 
 <table width="100%"><tr>
 <td width="40%"><video src="https://github.com/user-attachments/assets/0caa598d-47da-4041-beb5-149e46c306a0" width="100%" controls></video></td>
