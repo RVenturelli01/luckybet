@@ -57,6 +57,6 @@ POV display built on an Arduino-controlled fan — LEDs on a spinning arm create
 
 <table width="100%"><tr>
 <td width="50%"><img src="fan-led/media/stella.jpg" width="100%"/></td>
-<td width="50%">https://github.com/user-attachments/assets/d3bceb16-1f6b-45a3-9732-16acfa5aa507
+<td width="50%"><video src="https://github.com/user-attachments/assets/d3bceb16-1f6b-45a3-9732-16acfa5aa507" width="100%" controls></video>
 </td>
 </tr></table>
